@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quoting_react/static/css/main.02b47bd8.chunk.css",
+    "main.js": "/quoting_react/static/js/main.6da1ef68.chunk.js",
+    "main.js.map": "/quoting_react/static/js/main.6da1ef68.chunk.js.map",
+    "runtime~main.js": "/quoting_react/static/js/runtime~main.53355c37.js",
+    "runtime~main.js.map": "/quoting_react/static/js/runtime~main.53355c37.js.map",
+    "static/css/2.424bd964.chunk.css": "/quoting_react/static/css/2.424bd964.chunk.css",
+    "static/js/2.10a48ee3.chunk.js": "/quoting_react/static/js/2.10a48ee3.chunk.js",
+    "static/js/2.10a48ee3.chunk.js.map": "/quoting_react/static/js/2.10a48ee3.chunk.js.map",
+    "index.html": "/quoting_react/index.html",
+    "precache-manifest.758b67d7a549c53b47dba8d7f798da5c.js": "/quoting_react/precache-manifest.758b67d7a549c53b47dba8d7f798da5c.js",
+    "service-worker.js": "/quoting_react/service-worker.js",
+    "static/css/2.424bd964.chunk.css.map": "/quoting_react/static/css/2.424bd964.chunk.css.map",
+    "static/css/main.02b47bd8.chunk.css.map": "/quoting_react/static/css/main.02b47bd8.chunk.css.map"
+  }
+}
